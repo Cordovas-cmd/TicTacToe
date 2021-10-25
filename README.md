@@ -1,6 +1,6 @@
 
 # Tic Tac Toe
-
+![screen-gif](Animation.gif)
 Learning the fundamentals of JS through game creation. 
 
 ## Getting Started
